@@ -1,0 +1,11 @@
+E:\Apps\NETCoreWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\Apps\NETCoreWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\NETCoreWebAPI\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Apps\NETCoreWebAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Apps\NETCoreWebAPI\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

@@ -6,3 +6,14 @@ E:\Apps\NETCoreWebAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoIn
 E:\Apps\NETCoreWebAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
 E:\Apps\NETCoreWebAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 E:\Apps\NETCoreWebAPI\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+E:\Apps\NETCoreAccounts\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\Apps\NETCoreAccounts\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Apps\NETCoreAccounts\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Apps\NETCoreAccounts\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Apps\NETCoreAccounts\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\Apps\NETCoreAccounts\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

@@ -9,3 +9,16 @@ E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.Assemb
 E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
 E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 E:\Apps\NETCoreWebAPI\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Apps\NETCoreAccounts\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\Apps\NETCoreAccounts\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

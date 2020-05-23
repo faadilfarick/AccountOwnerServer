@@ -1,17 +1,76 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Apps\\NETCoreWebAPI\\Contracts\\Contracts.csproj": {}
+    "E:\\Apps\\NETCoreAccounts\\Contracts\\Contracts.csproj": {}
   },
   "projects": {
-    "E:\\Apps\\NETCoreWebAPI\\Contracts\\Contracts.csproj": {
+    "E:\\Apps\\NETCoreAccounts\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Apps\\NETCoreWebAPI\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "E:\\Apps\\NETCoreAccounts\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "E:\\Apps\\NETCoreWebAPI\\Contracts\\Contracts.csproj",
+        "projectPath": "E:\\Apps\\NETCoreAccounts\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Faadil\\.nuget\\packages\\",
-        "outputPath": "E:\\Apps\\NETCoreWebAPI\\Contracts\\obj\\",
+        "outputPath": "E:\\Apps\\NETCoreAccounts\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Faadil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Apps\\NETCoreAccounts\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Apps\\NETCoreAccounts\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Apps\\NETCoreAccounts\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Apps\\NETCoreAccounts\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "E:\\Apps\\NETCoreAccounts\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Faadil\\.nuget\\packages\\",
+        "outputPath": "E:\\Apps\\NETCoreAccounts\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +99,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

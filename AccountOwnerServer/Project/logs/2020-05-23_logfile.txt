@@ -1,0 +1,13 @@
+2020-05-23 15:32:40.4104 INFO Returned all owners from database.
+2020-05-23 15:33:11.0386 INFO Returned all owners from database.
+2020-05-23 17:43:25.6360 INFO Returned all owners from database.
+2020-05-23 17:54:05.5122 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-05-23 17:54:19.3161 ERROR Owner with id: 261e1685-cf26-494c-b17c-3546e65f5625, hasn't been found in db.
+2020-05-23 18:02:43.6682 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:04:22.7599 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:04:28.1067 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:05:20.2464 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:06:53.0865 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:09:37.5422 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:12:05.0116 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'
+2020-05-23 18:12:19.9093 ERROR Something went wrong inside GetOwnerWithDetails action: Unknown column 'a.OwnerId' in 'field list'

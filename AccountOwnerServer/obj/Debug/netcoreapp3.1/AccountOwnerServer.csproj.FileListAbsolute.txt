@@ -24,6 +24,9 @@ E:\Apps\NETCoreWebAPI\AccountOwnerServer\bin\Debug\netcoreapp3.1\Contracts.dll
 E:\Apps\NETCoreWebAPI\AccountOwnerServer\bin\Debug\netcoreapp3.1\LoggerService.dll
 E:\Apps\NETCoreWebAPI\AccountOwnerServer\bin\Debug\netcoreapp3.1\LoggerService.pdb
 E:\Apps\NETCoreWebAPI\AccountOwnerServer\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\nlog.config
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\appsettings.json
@@ -34,6 +37,8 @@ E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerS
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.runtimeconfig.dev.json
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AccountOwnerServer.pdb
+E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -109,7 +114,6 @@ E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\de\Microsoft.
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
@@ -124,10 +128,8 @@ E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\fr\Microsoft.
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\Apps\NETCoreAccounts\AccountOwnerServer\bin\Debug\netcoreapp3.1\Contracts.dll
